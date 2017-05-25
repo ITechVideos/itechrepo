@@ -1,2 +1,2 @@
 # itechrepo
-So I have no idea if this works.
+ok sp this will be a password genorator if i get it working
